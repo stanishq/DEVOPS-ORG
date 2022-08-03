@@ -10,6 +10,10 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>TANISHQ__c-CUSTOM TANISHQ LAYOUT</members>
+        <name>Layout</name>
+    </types>
+    <types>
         <members>TANISHQ__c.All</members>
         <name>ListView</name>
     </types>
