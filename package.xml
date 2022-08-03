@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <version>54.0</version>
+    <types>
+        <members>TANISHQ__c.Consent__c</members>
+        <members>TANISHQ__c.Who_is_he_to_you__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>TANISHQ__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>TANISHQ__c.All</members>
+        <name>ListView</name>
+    </types>
+</Package>
